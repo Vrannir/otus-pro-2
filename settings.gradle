@@ -1,4 +1,3 @@
 rootProject.name = 'otus-pro-2'
-include 'homework01'
-include 'homework02'
+
 
